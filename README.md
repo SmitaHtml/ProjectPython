@@ -3,7 +3,7 @@ The project uses data retrieved from Kaggle.com as a CSV file.
 
 Data to be analyzed/Questions to be answered:
 
-  1. I wanted to see the top 10 Universities and their national rank in the World  
+  1. I wanted to see the top Universities in the World  
 
   2. Top Universities by Country
     - By analyzing data/graph it was found that the few large countries like China even though doing well economically need to improve in Education
@@ -13,7 +13,7 @@ Pandas data frame was used to read the CSV file. And SQLite3 was used to create 
 
 This project, from the Jupyter Notebook, uses matplotlib to visualize the data as follows:
 
-  1. a graph to plot the top 10 Universities in the World
+  1. a graph to plot the top Universities in the World
   2. a graph to plot which Country has the top most Universities
 
 I have used the following tools and frameworks with this project
